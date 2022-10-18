@@ -1,4 +1,4 @@
-<img src="http://res.heraldm.com/content/image/2022/06/14/20220614000324_0.jpg" width="200" height="150">
+<img src="http://res.heraldm.com/content/image/2022/06/14/20220614000324_0.jpg">
 
 # ais7_demo
 * 멋쟁이 사자처럼 AIS7 실습
